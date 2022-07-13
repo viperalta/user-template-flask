@@ -1,0 +1,12 @@
+.actions{
+    display: flex;
+    gap:15px;
+}
+
+.mright{
+    margin-right: 15px;
+}
+
+body{
+    padding: 1rem !important;
+}
